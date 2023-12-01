@@ -8,9 +8,9 @@ class UserList{
     val userMap: MutableMap<String, Int> = mutableMapOf()
 
     init {
-        avatarMap[0] = R.drawable.kyle
+        avatarMap[0] = R.drawable.akshat
         avatarMap[1] = R.drawable.paul
-        avatarMap[2] = R.drawable.sarah
+        avatarMap[2] = R.drawable.roselene
         avatarMap[3] = R.drawable.lexie
         avatarMap[4] = R.drawable.alexander
         avatarMap[5] = R.drawable.maximillion
@@ -39,11 +39,11 @@ val users = """
     [
         {
             "id": 0,
-            "name": "Kyle",
-            "email": "kyle@syr.edu",
+            "name": "akshat",
+            "email": "akshat14@bu.edu",
             "password": "123456",
-            "zip": "13210",
-            "phone": "123456789",
+            "zip": "02215",
+            "phone": "6175993771",
             "rating": 3.5,
             "status": "1"
             
@@ -60,10 +60,10 @@ val users = """
         },
         {
             "id": 2,
-            "name": "Sarah LaVancher",
-            "email": "sarah@syr.edu",
+            "name": "Roselene",
+            "email": "winks@bu.edu",
             "password": "123456",
-            "zip": "13210",
+            "zip": "02215",
             "phone": "123456789",
             "rating": 3.2,
             "status": "1"
