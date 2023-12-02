@@ -101,7 +101,7 @@ class MarketItemAddActivity : AppCompatActivity() {
                 listedDate = formatted,
                 sellerId = userId!!,
                 sellerName = UserList().userList[userId].name,
-                zip = "13210",
+                zip = "02215",
                 status = "1"
             )
 

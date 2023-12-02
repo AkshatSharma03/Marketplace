@@ -50,7 +50,7 @@ var products = """
         "listedDate": "2022-11-05 12:34:56",
         "zip": 13210,
         "sellerId": 0,
-        "sellerName": "Kyle",
+        "sellerName": "akshat",
         "status": "1"
     },
     {
@@ -62,7 +62,7 @@ var products = """
         "listedDate": "2022-11-05 12:34:56",
         "zip": 13210,
         "sellerId": 1,
-        "sellerName": "Paul",
+        "sellerName": "joseph",
         "status": "1"
     },
     {
@@ -74,19 +74,19 @@ var products = """
         "listedDate": "2022-11-05 12:34:56",
         "zip": 13210,
         "sellerId": 2,
-        "sellerName": "Sarah LaVancher",
+        "sellerName": "Roselene",
         "status": "1"
     },
     {
         "id": 3003,
-        "name": "2017 Toyota RAV4-DEALER EN PAGOS—",
-        "price": 3000,
+        "name": "Nike Air Jordan 1",
+        "price": 150,
         "condition": "Used - Like New",
-        "description": "🚗F1NANCIAMIENT0  💥\n🚙3000$ D0WN PAYM3NT, TITULO LIMPIO 🤩\n\n✅SIN CREDIT0🎉\n✅MAL CREDITO🎉\n\nTENEMOS VARIOS CARROS PARA TI:\n🚗SEDAN\n🚗SUV\n🚗 TRUCK\n🚗MINI VAN\n\n✔️💯SOLO CON TU PASAPORTE O LICENCIA, COMPROBANTE DE INGRES0S Y DE DOMICILIO. 👍\n\n📞📞LIAME AL *510* *633* *7724*📲📱",
-        "listedDate": "2022-11-05 12:34:56",
-        "zip": 13210,
+        "description": "Nike air jordon 1 ",
+        "listedDate": "2023-12-02 10:37:28",
+        "zip": 02215,
         "sellerId": 3,
-        "sellerName": "Lexie Meager",
+        "sellerName": "akshat",
         "status": "1"
     },
     {
@@ -98,7 +98,7 @@ var products = """
         "listedDate": "2022-11-05 12:34:56",
         "zip": 13210,
         "sellerId": 4,
-        "sellerName": "Alexander Sustache",
+        "sellerName": "Jerry",
         "status": "1"
     },
     {
@@ -107,10 +107,10 @@ var products = """
         "price": 100,
         "condition": "Used - Good",
         "description": "$100. Size 49”x18”x35”. White/Brown dresser. Delivery available for additional fee. Check us out on IG @ramirezgoodsforsale ",
-        "listedDate": "2022-11-05 12:34:56",
-        "zip": 13210,
+        "listedDate": "2023-12-01 12:34:56",
+        "zip": 02215,
         "sellerId": 5,
-        "sellerName": "Maximillion Blumetti",
+        "sellerName": "Rayan",
         "status": "1"
     }
 ]

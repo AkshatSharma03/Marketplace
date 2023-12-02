@@ -9,15 +9,15 @@ class UserList{
 
     init {
         avatarMap[0] = R.drawable.akshat
-        avatarMap[1] = R.drawable.paul
+        avatarMap[1] = R.drawable.joseph
         avatarMap[2] = R.drawable.roselene
         avatarMap[3] = R.drawable.lexie
         avatarMap[4] = R.drawable.alexander
         avatarMap[5] = R.drawable.maximillion
 
-        userMap["F9fOq6JttZN9qlUuZikjecmntHL2"] = 0
-        userMap["8C4yBlVgdFNkLz4vnirB5cGhq1g2"] = 1
-        userMap["VfuhEbmt8ncJWbBmMibzyIcGqBh1"] = 2
+        userMap["eVbz3kWZELUOgtgcE1i2kho4MVh1"] = 0
+        userMap["1az8S3bXN4fnNcuVesKrqh1E6rC3"] = 1
+        userMap["4E0qedIm2EZU1pC6Nj3OsXYZSjQ2"] = 2
         userMap["wJqDWByavdRnAUmU6DbGOw5cQ6l2"] = 3
         userMap["9OuLe8C2pAdkPeV5WvrC5m6h3YJ2"] = 4
         userMap["Xlsuew3d3phW08KV5kgd0Dm9ACx1"] = 5
@@ -50,10 +50,10 @@ val users = """
         },
         {
             "id": 1,
-            "name": "Paul",
-            "email": "paul@syr.edu",
+            "name": "joseph",
+            "email": "joseph@bu.edu",
             "password": "123456",
-            "zip": "13210",
+            "zip": "02215",
             "phone": "123456789",
             "rating": 3.7,
             "status": "1"
