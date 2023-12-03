@@ -11,16 +11,16 @@ class UserList{
         avatarMap[0] = R.drawable.akshat
         avatarMap[1] = R.drawable.joseph
         avatarMap[2] = R.drawable.roselene
-        avatarMap[3] = R.drawable.lexie
-        avatarMap[4] = R.drawable.alexander
-        avatarMap[5] = R.drawable.maximillion
+        avatarMap[3] = R.drawable.rayan
+        avatarMap[4] = R.drawable.akshat
+        avatarMap[5] = R.drawable.roselene
 
         userMap["eVbz3kWZELUOgtgcE1i2kho4MVh1"] = 0
         userMap["1az8S3bXN4fnNcuVesKrqh1E6rC3"] = 1
         userMap["4E0qedIm2EZU1pC6Nj3OsXYZSjQ2"] = 2
-        userMap["wJqDWByavdRnAUmU6DbGOw5cQ6l2"] = 3
-        userMap["9OuLe8C2pAdkPeV5WvrC5m6h3YJ2"] = 4
-        userMap["Xlsuew3d3phW08KV5kgd0Dm9ACx1"] = 5
+        userMap["f6atiTmG1pRqkW4LhLavy4LslLy1"] = 3
+        userMap["MBsuFe4PkqSyvBm0rb2SHzMxH372"] = 4
+        userMap["4E0qedIm2EZU1pC6Nj3OsXYZSjQ2"] = 5
     }
 }
 
@@ -70,32 +70,32 @@ val users = """
         },
         {
             "id": 3,
-            "name": "Lexie Meager",
-            "email": "lexie@syr.edu",
+            "name": "Rayan",
+            "email": "ryed@bu.edu",
             "password": "123456",
-            "zip": "13210",
+            "zip": "02215",
             "phone": "123456789",
             "rating": 4.3,
             "status": "1"
         },
         {
             "id": 4,
-            "name": "Alexander Sustache",
-            "email": "alex@syr.edu",
+            "name": "akshat sahrma",
+            "email": "akshat1.sunil@gmail.com",
             "password": "123456",
-            "zip": "13210",
+            "zip": "02215",
             "phone": "123456789",
             "rating": 1.7,
             "status": "1"
         },
         {
             "id": 5,
-            "name": "Maximillion Blumetti",
-            "email": "max@syr.edu",
+            "name": "roselene",
+            "email": "winks@bu.edu",
             "password": "123456",
-            "zip": "13210",
+            "zip": "02215",
             "phone": "123456789",
-            "rating": 2.7,
+            "rating": 5,
             "status": "1"
         }
     ]

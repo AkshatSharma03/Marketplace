@@ -11,7 +11,7 @@ class ProductList {
         posterMap["Vizio 36” TV"] = R.drawable.tv
         posterMap["Mountain bike"] = R.drawable.bike
         posterMap["Teal green velvet like couch"] = R.drawable.couch
-        posterMap["2017 Toyota RAV4-DEALER EN PAGOS—"] = R.drawable.toyota
+        posterMap["Nike air jordan 1"] = R.drawable.airjordan
         posterMap["Large Wheeled Container - Husky 45 Gallon Wheeled Tote"] = R.drawable.container
         posterMap["Dresser"] = R.drawable.dresser
         posterMap["demo"] = R.drawable.demo_product
@@ -47,8 +47,8 @@ var products = """
         "price": 25,
         "condition": "Used - Good",
         "description": "Good condition, we need the space. It was kept in the playroom.\n\nPickup in Concord off Ayers. No holds.",
-        "listedDate": "2022-11-05 12:34:56",
-        "zip": 13210,
+        "listedDate": "2023-11-30 1:29:16",
+        "zip": 02215,
         "sellerId": 0,
         "sellerName": "akshat",
         "status": "1"
@@ -56,11 +56,11 @@ var products = """
     {
         "id": 3001,
         "name": "Mountain bike",
-        "price": 0,
+        "price": 50,
         "condition": "Used - Fair",
-        "description": "Been sitting outside. May need new tires. Free. Pickup in Suisun",
-        "listedDate": "2022-11-05 12:34:56",
-        "zip": 13210,
+        "description": "Been sitting outside. May need new tires. Free. Pickup in warren towers",
+        "listedDate": "2023-11-28 12:34:56",
+        "zip": 02215,
         "sellerId": 1,
         "sellerName": "joseph",
         "status": "1"
@@ -71,8 +71,8 @@ var products = """
         "price": 40,
         "condition": "Used - Like New",
         "description": "The is sofa is velvet like more teal than green 28hx 27dx 68. This is new but definitely a cheap sofa- price reflects this. The framing is metal. Sofa is firm. Would be great for an office or girls room. Cushions zippered and can be removed for cleaning.",
-        "listedDate": "2022-11-05 12:34:56",
-        "zip": 13210,
+        "listedDate": "2023-11-20 5:34:56",
+        "zip": 02215,
         "sellerId": 2,
         "sellerName": "Roselene",
         "status": "1"
@@ -85,7 +85,7 @@ var products = """
         "description": "Nike air jordon 1 ",
         "listedDate": "2023-12-02 10:37:28",
         "zip": 02215,
-        "sellerId": 3,
+        "sellerId": 0,
         "sellerName": "akshat",
         "status": "1"
     },
@@ -95,8 +95,8 @@ var products = """
         "price": 10,
         "condition": "Used - Good",
         "description": "Great if you need a large box for storage or to ship. We purchased it for $40 to ship a 120 lb carpet to our home. Has wheels and is fairly mobile.",
-        "listedDate": "2022-11-05 12:34:56",
-        "zip": 13210,
+        "listedDate": "2023-11-30 10:14:49",
+        "zip": 02215,
         "sellerId": 4,
         "sellerName": "Jerry",
         "status": "1"
@@ -106,10 +106,10 @@ var products = """
         "name": "Dresser",
         "price": 100,
         "condition": "Used - Good",
-        "description": "$100. Size 49”x18”x35”. White/Brown dresser. Delivery available for additional fee. Check us out on IG @ramirezgoodsforsale ",
+        "description": "$100. Size 49”x18”x35”. White/Brown dresser. Delivery available for additional fee.",
         "listedDate": "2023-12-01 12:34:56",
         "zip": 02215,
-        "sellerId": 5,
+        "sellerId": 3,
         "sellerName": "Rayan",
         "status": "1"
     }
